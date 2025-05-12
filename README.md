@@ -1,1 +1,2 @@
-清大資工 計算機程式設計一 final project
+#I2P_final_project
+NTHU 2024-Fall-I2P1-Hu final project
