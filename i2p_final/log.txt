@@ -1,0 +1,139 @@
+[LOG] Initializing Game ...
+[LOG] Initialized Allegro
+[LOG] Initialized Window Display
+[LOG] Initialized Event Queue and Source
+[LOG] Change scene from NULL to menu
+[LOG] Scene menu created, initializing ... 
+[LOG] Start Game Event Loop
+[LOG] Key 67 down
+[LOG] Change scene from menu to loading
+[LOG] No BGM File found [None], no sound will be played
+[LOG] Key 67 up
+[LOG] Key 215 down
+[LOG] Key 215 up
+[LOG] Change scene from loading to game
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] Creating Enemy at ( 15, 17 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 19 up
+[LOG] Key 23 down
+[LOG] Key 4 up
+[LOG] Key 23 up
+[LOG] Key 1 down
+[LOG] Key 19 down
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 19 up
+[LOG] Key 1 down
+[LOG] Key 23 down
+[LOG] Key 4 up
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 23 up
+[LOG] Key 19 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 19 up
+[LOG] Key 23 down
+[LOG] Key 4 down
+[LOG] Key 23 up
+[LOG] Key 23 down
+[LOG] Key 23 up
+[LOG] Key 1 down
+[LOG] Key 4 up
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 1 up
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 23 down
+[LOG] Key 23 up
+[LOG] Key 1 up
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 19 down
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 19 up
+[LOG] Key 1 down
+[LOG] Key 19 down
+[LOG] Key 1 up
+[LOG] Key 75 down
+[LOG] Key 75 up
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 23 down
+[LOG] Key 4 up
+[LOG] Key 23 up
+[LOG] Key 23 down
+[LOG] Key 23 up
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 4 up
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 75 down
+[LOG] Key 75 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 4 up
+[LOG] Key 19 up
+[LOG] Key 23 down
+[LOG] Key 1 down
+[LOG] Key 23 up
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 20 down
+[LOG] Key 1 down
+[LOG] Key 20 up
+[LOG] Key 1 up
+[LOG] Key 67 down
+[LOG] Change scene from game to end
+[LOG] Key 67 up
+[LOG] Change scene from end to scoreboard
+[LOG] Key 59 down
+[LOG] Change scene from scoreboard to menu
+[LOG] Key 59 up
+[LOG] Change scene from menu to setting
+[LOG] Change scene from setting to menu
+[LOG] Window close button pressed
+[LOG] Terminating ...
